@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.e3d7caf5.css",
+    "main.js": "/reactwebsite/static/js/main.223fb423.js",
+    "static/media/1.jpg": "/reactwebsite/static/media/1.cbee62aa89edcfdf25c3.jpg",
+    "static/media/8.jpg": "/reactwebsite/static/media/8.678a84e427ddc784a7c7.jpg",
+    "static/media/img.png": "/reactwebsite/static/media/img.5f7a39ec9d07a69301ea.png",
+    "static/media/img3.jpg": "/reactwebsite/static/media/img3.57618367eccf8f9b33a9.jpg",
+    "static/media/2.jpg": "/reactwebsite/static/media/2.3da31af7203a59dc9c57.jpg",
+    "static/media/3.jpg": "/reactwebsite/static/media/3.5c37a099b7b1fe2911c3.jpg",
+    "static/media/5.jpg": "/reactwebsite/static/media/5.dcf41160c1fd7b58ffc7.jpg",
+    "static/media/4.jpg": "/reactwebsite/static/media/4.4e8b138ee10b04599913.jpg",
+    "index.html": "/reactwebsite/index.html",
+    "main.e3d7caf5.css.map": "/reactwebsite/static/css/main.e3d7caf5.css.map",
+    "main.223fb423.js.map": "/reactwebsite/static/js/main.223fb423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3d7caf5.css",
+    "static/js/main.223fb423.js"
+  ]
+}
